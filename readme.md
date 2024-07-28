@@ -10,10 +10,10 @@ This project is a simple GUI application built with Tkinter and SQLite for user 
 
 ## Screenshots
 
-![Signup Interface]([images/img1.jpg](https://github.com/Ahmed-AlSayadi/Signup-Login-Interface-using-Tkinter-and-SQLite/blob/main/images/img1.JPG))
+![Login Interface](https://github.com/Ahmed-AlSayadi/Signup-Login-Interface-using-Tkinter-and-SQLite/blob/main/images/img1.JPG)
 *Login Interface*
 
-![Login Interface](https://github.com/Ahmed-AlSayadi/Signup-Login-Interface-using-Tkinter-and-SQLite/blob/main/images/img2.JPG)
+![Signup Interface](https://github.com/Ahmed-AlSayadi/Signup-Login-Interface-using-Tkinter-and-SQLite/blob/main/images/img2.JPG)
 *Signup Interface*
 
 ## Getting Started
