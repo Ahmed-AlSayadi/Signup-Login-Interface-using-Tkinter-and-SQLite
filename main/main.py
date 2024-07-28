@@ -82,7 +82,7 @@ style.set_theme("adapta")
 entry_style = ttk.Style()
 entry_style.configure("Custom.TEntry",
                       fieldbackground="black",
-                      foreground="white",
+                      foreground="black",
                       borderwidth=0,
                       background="black",
                       focuscolor="",
